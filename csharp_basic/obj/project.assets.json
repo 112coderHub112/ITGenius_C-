@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JACK\\Desktop\\Dotnet5Angular12\\csharp_basic\\csharp_basic.csproj",
+      "projectUniqueName": "C:\\Users\\JACK\\Desktop\\ITGenius_DotNET\\csharp_basic\\csharp_basic.csproj",
       "projectName": "csharp_basic",
-      "projectPath": "C:\\Users\\JACK\\Desktop\\Dotnet5Angular12\\csharp_basic\\csharp_basic.csproj",
+      "projectPath": "C:\\Users\\JACK\\Desktop\\ITGenius_DotNET\\csharp_basic\\csharp_basic.csproj",
       "packagesPath": "C:\\Users\\JACK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JACK\\Desktop\\Dotnet5Angular12\\csharp_basic\\obj\\",
+      "outputPath": "C:\\Users\\JACK\\Desktop\\ITGenius_DotNET\\csharp_basic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JACK\\AppData\\Roaming\\NuGet\\NuGet.Config"

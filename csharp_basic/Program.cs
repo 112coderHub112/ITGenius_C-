@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 using static csharp_basic.ex1_hello_console;
+using static csharp_basic.ex2_datatype;
+using static csharp_basic.ex3_variable;
 
 
 namespace csharp_basic
@@ -9,8 +11,9 @@ namespace csharp_basic
     {
         static void Main()
             {
-                ex1();
-
+                //ex1();
+                //ex2();
+                ex3();
             }
     }
 }
